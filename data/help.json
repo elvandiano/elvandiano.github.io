@@ -1,0 +1,20 @@
+{
+  "message" : "See a list of command below:",
+  "content" : [
+    {
+      "value" : "help"
+    },
+    {
+      "value" : "whoami"
+    },
+    {
+      "value" : "contact"
+    },
+    {
+      "value" : "project"
+    },
+    {
+      "value" : "clear"
+    }
+  ]
+}
