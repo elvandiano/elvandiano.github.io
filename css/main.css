@@ -722,21 +722,21 @@ ul.external li a:hover {
 }
 
 /*=================================================================
-	Testimonials
+	profile
 ==================================================================*/
 
 
-#testimonials {
+#profile {
     background-image: url(../img/template/pantai.jpg);
     padding: 0;
     color: #fff;
 }
 
-#testimonials .sec-title h2:after {
+#profile .sec-title h2:after {
     border-bottom: 1px solid #fff;
 }
 
-#testimonials .overlay {
+#profile .overlay {
     background-color: rgba(15,155,224, 0.78);
     padding: 70px 0 40px;
 }
@@ -788,18 +788,18 @@ ul.external li a:hover {
     text-transform: uppercase;
 }
 
-#testimonials .owl-controls.clickable {
+#profile .owl-controls.clickable {
     margin-top: 20px;
     text-align: center;
 }
 
-#testimonials .owl-buttons {
+#profile .owl-buttons {
     border: 2px solid #fff;
     float: inherit;
 }
 
-#testimonials .owl-prev:hover,
-#testimonials .owl-next:hover {
+#profile .owl-prev:hover,
+#profile .owl-next:hover {
     color: #fff;
 }
 
